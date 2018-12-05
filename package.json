@@ -1,0 +1,28 @@
+{
+  "name": "is2-simulation",
+  "version": "1.0.0",
+  "description": "application for the is2 simulation ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianlucaDeStefano/se2simulation.git"
+  },
+  "keywords": [
+    "app",
+    "software",
+    "is2"
+  ],
+  "author": "gianluca de stefano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianlucaDeStefano/se2simulation/issues"
+  },
+  "homepage": "https://github.com/GianlucaDeStefano/se2simulation#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-fetch": "^2.3.0"
+  }
+}
